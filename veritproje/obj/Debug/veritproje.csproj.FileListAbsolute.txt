@@ -1,0 +1,15 @@
+C:\Users\AHMET\source\repos\veritproje\veritproje\bin\Debug\veritproje.exe.config
+C:\Users\AHMET\source\repos\veritproje\veritproje\bin\Debug\veritproje.exe
+C:\Users\AHMET\source\repos\veritproje\veritproje\bin\Debug\veritproje.pdb
+C:\Users\AHMET\source\repos\veritproje\veritproje\obj\Debug\veritproje.csprojAssemblyReference.cache
+C:\Users\AHMET\source\repos\veritproje\veritproje\obj\Debug\veritproje.Formlar.FrmAdmin.resources
+C:\Users\AHMET\source\repos\veritproje\veritproje\obj\Debug\veritproje.Formlar.FrmAnasayfa.resources
+C:\Users\AHMET\source\repos\veritproje\veritproje\obj\Debug\veritproje.Formlar.FrmAraclar.resources
+C:\Users\AHMET\source\repos\veritproje\veritproje\obj\Debug\veritproje.Formlar.FrmMusteri.resources
+C:\Users\AHMET\source\repos\veritproje\veritproje\obj\Debug\veritproje.Formlar.FrmSatislar.resources
+C:\Users\AHMET\source\repos\veritproje\veritproje\obj\Debug\veritproje.Properties.Resources.resources
+C:\Users\AHMET\source\repos\veritproje\veritproje\obj\Debug\veritproje.csproj.GenerateResource.cache
+C:\Users\AHMET\source\repos\veritproje\veritproje\obj\Debug\veritproje.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\source\repos\veritproje\veritproje\obj\Debug\veritproje.exe
+C:\Users\AHMET\source\repos\veritproje\veritproje\obj\Debug\veritproje.pdb
+C:\Users\AHMET\source\repos\veritproje\veritproje\obj\Debug\veritproje.Formlar.FrmGiris.resources
